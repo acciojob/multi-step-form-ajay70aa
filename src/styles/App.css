@@ -1,1 +1,16 @@
 
+.step {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+}
+input {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+}
+button {
+  margin: 5px;
+  padding: 8px 16px;
+}
